@@ -8,13 +8,17 @@ Hardware Requirements:
 
 The following components are required to build the ultrasonic radar system:
 
-|| Ultrasonic sensor HC-SR04
+Ultrasonic sensor HC-SR04
 || Servo motor
 || Arduino board
 || Breadboard
 || Jump wires
-|| Software Used
-|| The Processing development environment is used for developing the user-friendly GUI.
+
+
+Software Used:
+
+The Processing development environment is used for developing the user-friendly GUI.
+
 
 Implementation:
 
